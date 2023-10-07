@@ -17,11 +17,11 @@ to use this code, you need to follow the steps below:
 
 ### Run Installation Script
 1. Clone this repository
-`git clone https://github.com/Alfaalputra/image_search.git`
+```git clone https://github.com/Alfaalputra/image_search.git```
 2. Go inside folder image_search
-`cd image_search/`
+```cd image_search/```
 3. Install dependencies using pip (inside virtual environment)
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 
 
 ## Usage
