@@ -1,0 +1,6 @@
+fastapi==0.103.2
+opencv_python==4.8.1.78
+pydantic==1.10.13
+pymilvus==2.2.11
+towhee==1.1.2
+uvicorn==0.23.2
