@@ -1,4 +1,4 @@
-# image_search
+# Image Search
 
 ## Installation
 to use this code, you need to follow the steps below:
@@ -22,3 +22,10 @@ to use this code, you need to follow the steps below:
 `cd image_search/`
 3. Install dependencies using pip (inside virtual environment)
 `pip install -r requirements.txt`
+
+
+## Usage
+
+### Insert to Milvus
+
+### Search Image
